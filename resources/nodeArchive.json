@@ -1,90 +1,30 @@
 {
-   "highlander03": {
+   "demo": {
+      "os": "",
+      "hardware": "",
       "services": [],
-      "hardware": "raspberry pi",
       "status": "ready",
-      "host": "swarm",
-      "os": "linux"
+      "host": "standalone"
    },
-   "highlander09": {
-      "services": [
-         "Project MadGarden"
-      ],
-      "hardware": "raspberry pi",
-      "status": "ready",
-      "host": "swarm",
-      "os": "linux"
-   },
-   "highlander07": {
-      "services": [
-         "Project Acta Mea",
-         "Project ACLG",
-         "Project Acta Mea"
-      ],
-      "hardware": "raspberry pi",
-      "status": "ready",
-      "host": "swarm",
-      "os": "linux"
-   },
-   "highlander06": {
+   "trial": {
+      "os": "",
+      "hardware": "",
       "services": [],
-      "hardware": "raspberry pi",
       "status": "ready",
-      "host": "swarm",
-      "os": "linux"
+      "host": "standalone"
    },
-   "highlander10": {
-      "services": [
-         "Project Heimir"
-      ],
-      "hardware": "raspberry pi",
-      "status": "ready",
-      "host": "swarm",
-      "os": "linux"
-   },
-   "highlander08": {
-      "services": [
-         "Project ACLG"
-      ],
-      "hardware": "raspberry pi",
-      "status": "ready",
-      "host": "swarm",
-      "os": "linux"
-   },
-   "highlander14": {
-      "services": [
-         "Project JA",
-         "Project JA"
-      ],
-      "hardware": "raspberry pi",
-      "status": "ready",
-      "host": "swarm",
-      "os": "linux"
-   },
-   "highlander04": {
-      "services": [
-         "Project Heimir"
-      ],
-      "hardware": "raspberry pi",
-      "status": "ready",
-      "host": "swarm",
-      "os": "linux"
-   },
-   "highlander01": {
-      "services": [
-         "Project ACLG",
-         "Project ACLG"
-      ],
-      "hardware": "raspberry pi",
-      "status": "ready",
-      "host": "swarm",
-      "os": "linux"
-   },
-   "highlander11": {
+   "go": {
+      "os": "",
+      "hardware": "",
       "services": [],
-      "hardware": "raspberry pi",
-      "status": "down",
-      "host": "swarm",
-      "os": "linux"
+      "status": "ready",
+      "host": "standalone"
+   },
+   "cdd": {
+      "os": "",
+      "hardware": "",
+      "services": [],
+      "status": "ready",
+      "host": "standalone"
    }
 }
