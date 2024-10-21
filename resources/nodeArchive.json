@@ -5,5 +5,12 @@
       "services": [],
       "status": "ready",
       "host": "standalone"
+   },
+   "trial": {
+      "os": "",
+      "hardware": "",
+      "services": [],
+      "status": "ready",
+      "host": "standalone"
    }
 }
