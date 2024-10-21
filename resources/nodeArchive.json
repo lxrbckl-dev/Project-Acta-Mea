@@ -12,5 +12,12 @@
       "services": [],
       "status": "ready",
       "host": "standalone"
+   },
+   "go": {
+      "os": "",
+      "hardware": "",
+      "services": [],
+      "status": "ready",
+      "host": "standalone"
    }
 }
