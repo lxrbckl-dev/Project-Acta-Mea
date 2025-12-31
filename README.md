@@ -1,5 +1,5 @@
 # [Project Acta Mea 6](https://github.com/lxRbckl/Project-Acta-Mea/wiki/V6)
-> CRUD management for servers and services featuring dockerode integration. V6. Spring 2024. *Discontinued.*
+> CRUD management for servers and services featuring dockerode integration. V6. Spring 2024.
 
 ---
 
