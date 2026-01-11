@@ -1,5 +1,5 @@
 # Project Acta Mea 5
-> Administer servers and services via a Discord bot utilizing a remote data file. Spring 2024.
+> Administer servers and services via a Discord bot utilizing a remote data file. Spring 2024. Discontinued.
 >
 > **`JavaScript`** **`Docker`** `octokit` `discordjs` `dockerode` `node-cron` `axios` `github-actions` `git-hooks`
 
