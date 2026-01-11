@@ -1,5 +1,5 @@
 # Project Acta Mea 3
-> Manage servers and services using a Discord bot with a GitHub repository data file. Spring 2022.
+> Manage servers and services using a Discord bot with a GitHub repository data file. Spring 2022. Discontinued.
 >
 > **`Python`** `os` `pygithub` `discordpy` `json` `requests` `asyncio`
 
