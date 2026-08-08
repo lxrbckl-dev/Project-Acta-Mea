@@ -11,24 +11,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.event.head_commit.message == 'Update'
     env:
 
       project: "project-acta-mea"
       architecture: "linux/arm64"
 
     steps:
-
-      - name: Evaluate Commit Message
-        run: |
-
-          commitMessage="${{ github.event.head_commit.message }}";
-
-          if [ "$commitMessage" != "Update" ]; then
-
-             echo "Strictly told not to update.";
-             exit 1;
-
-          fi
 
       - name: Checkout Repository
         uses: actions/checkout@v4

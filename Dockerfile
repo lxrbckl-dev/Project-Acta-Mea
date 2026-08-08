@@ -1,4 +1,4 @@
-FROM node:19.5.0
+FROM node:22
 
 
 # referencing docker compose <
