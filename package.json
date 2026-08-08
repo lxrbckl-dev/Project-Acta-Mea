@@ -12,5 +12,8 @@
     "@types/dockerode": "^3.3.30",
     "dockerode": "^4.0.2",
     "lxrbckl": "^9.7.10"
+  },
+  "overrides": {
+    "undici": "6.28.0"
   }
 }
